@@ -1,10 +1,10 @@
-
+import Wrapper from './../../components/wrapper';
 
 const Home = () => {
     return (
-        <div>
+        <Wrapper>
             <h1>I am home</h1>
-        </div>
+        </Wrapper>
     )
 }
 
