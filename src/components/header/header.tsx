@@ -9,7 +9,9 @@ const Header = (props: Header_Props): React.ReactElement => {
     const { children } = props;
     return (
         <div className='header-container'>
-            {children}
+            <div className='title-container'>
+                {children}
+            </div>
         </div>
     )
 };

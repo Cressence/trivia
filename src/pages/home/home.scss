@@ -1,14 +1,5 @@
 @import './../../assets//style/variables.scss';
 
-.title-container {
-    background-color: $dark_blue;
-    padding: 0 30px;
-
-    color: $white;
-    font-family: $proxima;
-    font-size: $sub_title;
-}
-
 .button-container {
     display: flex;
     justify-content: space-between;

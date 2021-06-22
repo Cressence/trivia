@@ -8,4 +8,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+    .title-container {
+        background-color: $dark_blue;
+        padding: 0 30px;
+
+        color: $white;
+        font-family: $proxima;
+        font-size: $sub_title;
+    }
 }
