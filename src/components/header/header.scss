@@ -1,0 +1,11 @@
+@import './../../assets/style/variables.scss';
+
+.header-container {
+    background-color: $medium_blue;
+    margin-top: -15px;
+    padding: 20px 10px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
